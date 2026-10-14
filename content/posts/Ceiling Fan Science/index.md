@@ -5,8 +5,6 @@ categories:
   - "personal"
 ---
 
-# Ceiling Fan Science
-
 When you consider ceiling fans, your mind isn’t typically drawn to the science behind how they work. They are just a fan that hangs from the ceiling that blows air down on you to keep you cool. Well, things aren’t always that simple.
 
 My wife and I are one of those couples who sleep with a ceiling fan running. We do this year-round. We like the air moving and also the small amount of white noise created by the motor and air movement. A few days ago, the ceiling fan in our bedroom started making a sort of squeeky click at a regular rhythm. This does not make a good companion sound for sleeping. So, we went to our local big-box hardware store and bought a new fan.
