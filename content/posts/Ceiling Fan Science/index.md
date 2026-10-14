@@ -1,3 +1,10 @@
+---
+title: "Ceiling Fan Science"
+date: 2025-10-23
+categories:
+  - "personal"
+---
+
 # Ceiling Fan Science
 
 When you consider ceiling fans, your mind isn’t typically drawn to the science behind how they work. They are just a fan that hangs from the ceiling that blows air down on you to keep you cool. Well, things aren’t always that simple.
@@ -30,9 +37,8 @@ After installing the new down rod, I went to the wall switch and held my breath.
 
 Switch on. Fan moving.
 
-I could now feel the wonderful breeze from the fan! In fact, it was *really* moving the air! Success!
+I could now feel the wonderful breeze from the fan! In fact, it was _really_ moving the air! Success!
 
 So, now you and I know more about ceiling fans than I would have thought necessary. They’ve got to have room to breathe!
 
 #Personal/Blog/Lea-Tech
-
