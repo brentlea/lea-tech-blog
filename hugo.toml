@@ -1,4 +1,4 @@
-baseURL = 'https://lea-tech.com/'
+baseURL = 'https://lea-tech-blog.pages.dev/'
 locale = 'en-us'
 title = 'Lea-Tech Blog'
 enableEmoji = true
