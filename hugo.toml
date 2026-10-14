@@ -1,0 +1,5 @@
+baseURL = 'https://lea-tech.com/'
+locale = 'en-us'
+title = 'Lea-Tech Blog'
+enableEmoji = true
+theme = "PaperMod"
